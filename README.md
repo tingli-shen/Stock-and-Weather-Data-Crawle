@@ -1,6 +1,6 @@
 # Stock and Weather Data Crawler
 ## Stock data
-The code can crawl the stock data(see stock.xlsx) of United States Natural Gas Fund. 
+*stock.py* can crawl the stock data(see stock.xlsx) of United States Natural Gas Fund. 
 
 Company name can be changed for differenct needs.
 ## Weather data

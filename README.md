@@ -4,6 +4,7 @@
 Company name can be changed for differenct needs.
 ## Weather data
 First, apply for a key from Dark Sky API.
+
 **weather.py**  can help you crawl the weather data(see weather.xlsx) in many locations. 
 Locations can be changed for different needs.
 
